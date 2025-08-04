@@ -10,6 +10,7 @@ Construído com muito carinho (e noites em claro... Cry), usando HTML, CSS e Jav
 
 E pra deixar tudo ainda mais profissional, ele está hospedado no Netlify, firme e forte como um bom café coado. Mas ó, tudo aqui está em constante atualização! Esse portfólio não é um livro fechado, mas sim um diário de bordo em constante escrita. À medida que eu for desvendando novos truques, aprendendo mais linguagens e desenvolvendo projetos ainda mais incríveis, ele vai crescer junto comigo. Então, fiquem de olho, porque as novidades não param!
 
-# Vem comigo nessa aventura e me conta o que achou! 😉
+Vem comigo nessa aventura e me conta o que achou! 
  
+
 
